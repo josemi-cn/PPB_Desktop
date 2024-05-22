@@ -1,0 +1,29 @@
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\Project Phone Basket - Storage App.exe.config
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\Project Phone Basket - Storage App.exe
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\Project Phone Basket - Storage App.pdb
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project Phone Basket - Storage App.csproj.AssemblyReference.cache
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project_Phone_Basket___Storage_App.Properties.Resources.resources
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project Phone Basket - Storage App.csproj.GenerateResource.cache
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project Phone Basket - Storage App.csproj.CoreCompileInputs.cache
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project Phone Basket - Storage App.pdb
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project_Phone_Basket___Storage_App.LoginForm.resources
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project Phone Basket - Storage App.csproj.CopyComplete
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\System.Buffers.dll
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\System.Memory.dll
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\System.Buffers.xml
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\System.Memory.xml
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project_Phone_Basket___Storage_App.View.AdminForm.resources
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project_Phone_Basket___Storage_App.View.ErrorForm.resources
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project_Phone_Basket___Storage_App.View.QuestionForm.resources
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project Phone Basket - Storage App.exe.manifest
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\Project Phone Basket - Storage App.exe.manifest
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\bin\Debug\Project Phone Basket - Storage App.application
+C:\Users\cv\source\repos\Project Phone Basket - Storage App\Project Phone Basket - Storage App\obj\Debug\Project Phone Basket - Storage App.application
